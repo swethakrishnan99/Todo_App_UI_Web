@@ -129,14 +129,12 @@ input {
 .background1 {
   background: url(new_list.png);
   backdrop-filter: blur(15px);
-  height: 100vh;
-  width: 100vw;
+  height: 90vh;
 }
 .background2 {
   background: url(new_item.png);
   backdrop-filter: blur(15px);
-  height: 100vh;
-  width: 100vw;
+  height: 90vh;
 }
 .container {
   background-color: white;
